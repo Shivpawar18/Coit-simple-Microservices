@@ -1,4 +1,4 @@
-## Starting the Web App Locally - Use this command #hello team
+## Starting the Web App Locally - Use this command #hello team ### Build image##
 ` $ yarn start `
 
 ## Building the application
